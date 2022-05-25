@@ -1,6 +1,6 @@
 alert("Not all shootings that occur in NYC receive media attention."
 +"\n\nThis visualization gives the audience a chance to explore locations and times when shootings have been reported in NYC."
-+"\n\nIt does not attempt to provide commentary. It is simply serves as a gateway to history for the viewers own curiosity and reflection.");
++"\n\nIt does not attempt to provide commentary. It simply serves as a gateway to history for the viewers own curiosity and reflection.");
 
 const myMap = L.map('map', {
   center: [40.662857, -73.969917],
